@@ -1,0 +1,11 @@
+receiver_name,phone_number,address,postal_code,package_size
+John Doe,+1-403-555-0100,"123 Main St, Calgary, AB",T2P 1A1,1-5kg
+Jane Smith,+1-403-555-0101,"456 Center St, Airdrie, AB",T4B 2C3,5-15kg
+Bob Johnson,+1-403-555-0102,"789 Lake Dr, Chestermere, AB",T1X 1N1,15-30kg
+Alice Williams,+1-403-555-0103,"321 Oak Ave, Okotoks, AB",T1S 1B1,1-5kg
+Charlie Brown,+1-403-555-0104,"654 Pine Rd, Calgary, AB",T3K 2M2,5-15kg
+Diana Prince,+1-403-555-0105,"987 Elm St, Calgary, AB",T2H 3A3,15-30kg
+Ethan Hunt,+1-403-555-0106,"147 Maple Dr, Airdrie, AB",T4B 3C4,1-5kg
+Fiona Green,+1-403-555-0107,"258 Birch Ln, Chestermere, AB",T1X 2B2,5-15kg
+George Wilson,+1-403-555-0108,"369 Cedar Ct, Calgary, AB",T2P 4D4,1-5kg
+Hannah Lee,+1-403-555-0109,"741 Spruce Way, Calgary, AB",T3M 5E5,15-30kg
